@@ -1,0 +1,7 @@
+{
+  "email": "vrana1158@gmail.com",
+  "name": "VineetSinghRana",
+  "mobile": "8875147446",
+  "password": "Ranamsmsms",
+  "gender": "male"
+}
